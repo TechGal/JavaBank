@@ -20,8 +20,7 @@ public class Account {
         System.out.println("- - - - - - - - - - - - - - ");
     }
 
-    public void PrintID (
-    ) {
+    public void PrintID () {
         System.out.println("Printing account information: ");
         System.out.println("Name: "+ Name);
         System.out.println("Balance: $" + Balance);
